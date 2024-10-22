@@ -14,7 +14,7 @@
 
 
 
-## 清单
+## 独立博客清单
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [中文博客列表导航项目](https://zhblogs.ohyee.cc/?tab=blog_list&page=2&tags=&search=)
 
