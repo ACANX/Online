@@ -21,3 +21,8 @@
 - [爱上编程的小白](https://blog.csdn.net/w13485673086/)
 - [爱上编程的小白](https://blog.csdn.net/w13485673086/)
 
+
+
+# 参考
+- [BlogList](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/BlogList.md)
+- [开发者技术博客列表](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/DeveloperBlogList.md)
