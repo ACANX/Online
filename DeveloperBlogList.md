@@ -21,5 +21,5 @@
 
 
 # 参考
-- [BlogList](https://gitee.com/ACANX/AwesomeOnlineTool/BlogList.md)
+- [中文独立博客](https://gitee.com/ACANX/AwesomeOnlineTool/blob/main/BlogList.md)
 - [开发者技术博客列表](https://gitee.com/ACANX/AwesomeOnlineTool/blob/main/DeveloperBlogList.md)
