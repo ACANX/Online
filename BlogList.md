@@ -22,3 +22,8 @@
 ## 清单
 - [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)
 - [中文博客列表导航项目](https://zhblogs.ohyee.cc/?tab=blog_list&page=2&tags=&search=)
+
+
+# 参考
+- [BlogList](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/BlogList.md)
+- [开发者技术博客列表](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/DeveloperBlogList.md)
