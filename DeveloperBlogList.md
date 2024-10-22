@@ -1,7 +1,7 @@
 # 开发者技术博客列表
 
 ## 独立博客
-- [BlogList](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/BlogList.md)
+- [中文独立博客](https://gitee.com/ACANX/AwesomeOnlineTool/blob/main/BlogList.md)
 
 ## Java开发者 博客园
 
