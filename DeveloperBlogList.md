@@ -1,10 +1,7 @@
 # 开发者技术博客列表
 
 ## 独立博客
-- [无唯～](https://blog.csdn.net/ZXMSH/)
-- [无唯～](https://blog.csdn.net/ZXMSH/)
-
-
+- [BlogList](https://gitee.com/ACANX/AwesomeOnlineTool/edit/main/BlogList.md)
 
 ## Java开发者 博客园
 
