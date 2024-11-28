@@ -3,6 +3,7 @@
 
 # 在线工具网址
 - [在线工具 —— OSCHINA.NET社区](https://tool.oschina.net/)
+- [IT-Tools](https://tool.zstatic.net/sql-prettify)     https://github.com/CorentinTh/it-tools
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算-BeJSON.com](https://www.bejson.com/convert/filesize/)
 
 
@@ -38,6 +39,9 @@
 - [Bing翻译](https://cn.bing.com/translator)
 
 
+## RSS
+- [Follow](https://app.follow.is/)
+- [蚁阅](https://rss.anyant.com/)
 
 
 
