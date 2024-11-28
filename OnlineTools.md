@@ -39,7 +39,7 @@
 - [Bing翻译](https://cn.bing.com/translator)
 
 ## Unicode编码转换
-- [](https://unicode.un80.cn/)
+- [unicode.un80.cn](https://unicode.un80.cn/)
 
 ## RSS
 - [Follow](https://app.follow.is/)
