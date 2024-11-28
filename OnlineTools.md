@@ -38,6 +38,8 @@
 - [有道翻译](https://fanyi.youdao.com/#/)
 - [Bing翻译](https://cn.bing.com/translator)
 
+## Unicode编码转换
+- [](https://unicode.un80.cn/)
 
 ## RSS
 - [Follow](https://app.follow.is/)
