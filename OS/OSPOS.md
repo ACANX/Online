@@ -2,3 +2,11 @@
 
 
 - [Kubernetes](https://kubernetes.io/)
+
+- [OpenJDK](https://openjdk.org/)
+
+
+- [NodeJS](https://nodejs.org/)
+
+
+- [Kotlin](https://kotlinlang.org/)
