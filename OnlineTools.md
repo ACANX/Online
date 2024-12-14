@@ -8,6 +8,17 @@
 - [toolonline.net](https://toolonline.net/)
 - [锤子在线工具网](https://www.toolhelper.cn/)
 
+
+
+## AI大模型
+- [文心一言](https://yiyan.baidu.com/)
+- [通义千问](https://tongyi.aliyun.com/qianwen/)
+- [混元](https://yuanbao.tencent.com/chat/)
+- [元宝](https://yuanbao.tencent.com/chat/)
+- [ChatGPT](https://openai.com/index/chatgpt/)
+- [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+- [豆包](https://www.doubao.com/chat/)
+
 # 开源镜像站点
 
 - [developer.aliyun.com/mirror/](https://developer.aliyun.com/mirror/)
@@ -37,14 +48,7 @@
 ## 在线JSON<=>Java POJO对象互转
 - [JSON转Java实体类](https://www.sojson.com/json2entity.html)
 
-## AI大模型
-- [文心一言](https://yiyan.baidu.com/)
-- [通义千问](https://tongyi.aliyun.com/qianwen/)
-- [混元](https://yuanbao.tencent.com/chat/)
-- [元宝](https://yuanbao.tencent.com/chat/)
-- [ChatGPT](https://openai.com/index/chatgpt/)
-- [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
-- [豆包](https://www.doubao.com/chat/)
+
 
 ## 在线二维码生成
 - [草料二维码生成器](https://cli.im/)
