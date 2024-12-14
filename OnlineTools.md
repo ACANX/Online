@@ -39,9 +39,11 @@
 
 ## AI大模型
 - [文心一言](https://yiyan.baidu.com/)
-- [通义千问](#)
-- [混元](#)
-- [ChatGPT](#)
+- [通义千问](https://tongyi.aliyun.com/qianwen/)
+- [混元](https://yuanbao.tencent.com/chat/)
+- [元宝](https://yuanbao.tencent.com/chat/)
+- [ChatGPT](https://openai.com/index/chatgpt/)
+- [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
 
 ## 在线二维码生成
 - [草料二维码生成器](https://cli.im/)
