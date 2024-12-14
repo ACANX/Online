@@ -44,6 +44,7 @@
 - [元宝](https://yuanbao.tencent.com/chat/)
 - [ChatGPT](https://openai.com/index/chatgpt/)
 - [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+- [豆包](https://www.doubao.com/chat/)
 
 ## 在线二维码生成
 - [草料二维码生成器](https://cli.im/)
