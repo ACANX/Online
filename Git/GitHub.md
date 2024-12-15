@@ -329,7 +329,8 @@
 
 # 在线工具
 
-- [gitee.com/ACANX/AwesomeOnlineTool](https://gitee.com/ACANX/AwesomeOnlineTool)
+- [github.com/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+- [gitee.com/ACANX/AwesomeOnlineTool](https://gitee.com/ACANX/AwesomeOnline)
 
 
 # 博客
