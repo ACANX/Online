@@ -1,5 +1,7 @@
 # GitHub Repository
 
+- [github.com/ACANX/Repository](https://github.com/ACANX/Repository)
+- [gitee.com/ACANX/Repository](https://gitee.com/ACANX/Repository)
 
 **GitHub关注的仓库**
 
@@ -275,9 +277,9 @@
 - https://github.com/WOA-Project/WOA-Deployer-Rpi
 
 
-# 科学上网
+# 科21学41上42网
 
-## SSR/V2ray/SS/GFW（已过时）
+## SS32R/V223ray23/S23S/G232F233W（已过时）
 
 - https://github.com/v2ray/v2ray-core
 - [v2ray](https://github.com/ACXNX/v2ray)
