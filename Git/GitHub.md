@@ -222,7 +222,7 @@
 
 - [github.com/hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
 
-- [github.com/ACANX/Repository](github.com/ACANX/Repository)
+- [github.com/ACANX/Repository](https://github.com/ACANX/Repository)
 
 
 ## GitHub客户端
