@@ -3,7 +3,7 @@
 
 # 在线工具网址
 - [在线工具 —— OSCHINA.NET社区](https://tool.oschina.net/)
-- [IT-Tools](https://tool.zstatic.net/sql-prettify)     [github.com/CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+- [IT-Tools](https://tool.zstatic.net/sql-prettify)    
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算-BeJSON.com](https://www.bejson.com/convert/filesize/)
 - [toolonline.net](https://toolonline.net/)
 - [锤子在线工具网](https://www.toolhelper.cn/)
