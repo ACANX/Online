@@ -223,6 +223,7 @@
 - [github.com/hoarder-app/hoarder](https://github.com/hoarder-app/hoarder)
 
 - [github.com/ACANX/Repository](https://github.com/ACANX/Repository)
+- [gitee.com/ACANX/Repository](https://gitee.com/ACANX/Repository)
 
 
 ## GitHub客户端
