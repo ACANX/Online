@@ -63,6 +63,10 @@
 ### Debug
 - https://github.com/alibaba/arthas
 
+### 工具库
+
+- [github.com/mapstruct/mapstruct](https://github.com/mapstruct/mapstruct)
+
 
 ## Go
 - http://www.gopl.io/  Go语言圣经 作者提供的网站
