@@ -299,6 +299,16 @@
 # 12306
 - https://github.com/testerSunshine/12306
 
+
+# 智能家居-Home Assistant|米家
+
+- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home/blob/main/doc/README_zh.md)
+
+100%
+
+
+
+
 ---
 
 ---
