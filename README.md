@@ -11,4 +11,6 @@ Awesome Online Tool 在线工具
 - [ACANX/Docs](https://gitee.com/ACANX/Docs)
 - [wikis-Home](https://gitee.com/ACANX/ACANX-Deamon/wikis/Home)
 
+- [ACANX/Blog](https://gitee.com/ACANX/Blog)
+- [ACANX/Node](https://gitee.com/ACANX/Node)
 
