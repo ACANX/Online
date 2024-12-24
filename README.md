@@ -8,7 +8,7 @@ Awesome Online Tool 在线工具
 
 - [gitee.com/](https://gitee.com/)
 - [ACANX/Docs](https://docs.acanx.com/)
-- [ACANX/Docs](https://gitee.com/ACANX/Docs)
+- [ACANX/Docs](https://gitee.com/ACANX/Docs)   [ACANX/Docs-Issue](https://gitee.com/ACANX/Docs/issues/new)
 - [wikis-Home](https://gitee.com/ACANX/ACANX-Deamon/wikis/Home)
 
 - [ACANX/Blog](https://gitee.com/ACANX/Blog)
