@@ -27,8 +27,11 @@
 # 开源项目/文档
 - [开源项目/文档](./OS/README.md)
 
-# 在线参考文档
--  [Quick Reference](https://quickref.cn/index.html)
+
+# 在线速查表
+
+- [Quick Reference](https://quickref.cn/index.html)
+- [菜鸟教程](https://www.runoob.com/)
 
 
 # 代码格式化
