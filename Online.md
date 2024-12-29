@@ -27,6 +27,8 @@
 # 开源项目/文档
 - [开源项目/文档](./OS/README.md)
 
+# 在线参考文档
+-  [Quick Reference](https://quickref.cn/index.html)
 
 
 # 代码格式化
