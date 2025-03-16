@@ -11,6 +11,8 @@
 
 
 ## AI大模型
+
+- [DeepSeek](https://chat.deepseek.com/)
 - [文心一言](https://yiyan.baidu.com/)
 - [通义千问](https://tongyi.aliyun.com/qianwen/)
 - [混元](https://yuanbao.tencent.com/chat/)
