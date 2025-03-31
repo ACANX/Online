@@ -86,6 +86,15 @@
 - [蚁阅](https://rss.anyant.com/)
 - [RSSHub](https://rsshub.netlify.app/zh/)
 
+## Markdown及工具
+
+- Obsidian
+- 语雀
+- Typora
+- VSCode
+
+
+
 ## 区块链与Web3
 
 ### 博客
