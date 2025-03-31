@@ -49,12 +49,21 @@
 ## 在线文档编辑
 - [docs.qq.com](https://docs.qq.com)
 
+
+
+
 ## 在线视频解析与下载
 - [抖音/TikTok视频图片下载](https://snapany.com/zh/tiktok)
 
 ## 在线JSON<=>Java POJO对象互转
 - [JSON转Java实体类](https://www.sojson.com/json2entity.html)
 
+## 免费在线OCR
+
+- 微信PC版本
+- 腾讯云OCR
+- 微云
+- 小米Hyper OS系统自带的图片中文本识别
 
 
 ## 在线二维码生成
@@ -72,11 +81,14 @@
 - [unicode.un80.cn](https://unicode.un80.cn/)
 
 ## RSS
-- [Follow](https://app.follow.is/)
+
+- [Folo](https://app.follow.is/)
 - [蚁阅](https://rss.anyant.com/)
+- [RSSHub](https://rsshub.netlify.app/zh/)
 
+## 区块链与Web3
 
-##  区块链
+### 博客
 
 - [acanx-6051.xlog.app/](https://acanx-6051.xlog.app/)
 
