@@ -53,7 +53,9 @@
 
 
 ## 在线视频解析与下载
+
 - [抖音/TikTok视频图片下载](https://snapany.com/zh/tiktok)
+- [DataTool.Vip](https://www.datatool.vip/)
 
 ## 在线JSON<=>Java POJO对象互转
 - [JSON转Java实体类](https://www.sojson.com/json2entity.html)
