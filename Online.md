@@ -8,6 +8,7 @@
 - [toolonline.net](https://toolonline.net/)
 - [锤子在线工具网](https://www.toolhelper.cn/)
 - [tool.lu](https://tool.lu/)
+- [菜鸟工具](https://www.jyshare.com/)
 
 
 ## AI大模型
