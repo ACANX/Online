@@ -9,7 +9,7 @@
 - [锤子在线工具网](https://www.toolhelper.cn/)
 - [tool.lu](https://tool.lu/)
 - [菜鸟工具](https://www.jyshare.com/)
-
+- [开发者工具箱](https://coding.tools/cn)
 
 ## AI大模型
 
@@ -21,6 +21,11 @@
 - [ChatGPT](https://openai.com/index/chatgpt/)
 - [智谱清言](https://chatglm.cn/main/alltoolsdetail?lang=zh)
 - [豆包](https://www.doubao.com/chat/)
+
+## AI智能
+
+- [mcp.so](https://mcp.so/)
+- [扣子](https://www.coze.cn/)
 
 # 开源镜像站点
 
@@ -100,9 +105,13 @@
 - Typora
 - VSCode
 
+## 金融知识
+
+- [牛牛课堂](https://www.futunn.com/learn/wiki)
+
 ## 证券行情
 
-- 富途牛牛
+- [富途牛牛](https://www.futunn.com/quote/hk/heatmap)
 - 英为财情
 - [百度股市通](https://gushitong.baidu.com/)
 
