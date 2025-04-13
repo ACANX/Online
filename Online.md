@@ -49,6 +49,7 @@
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算-BeJSON.com](https://www.bejson.com/convert/filesize/)
 
 ## 在线文档编辑
+
 - [docs.qq.com](https://docs.qq.com)
 
 
@@ -60,6 +61,7 @@
 - [DataTool.Vip](https://www.datatool.vip/)
 
 ## 在线JSON<=>Java POJO对象互转
+
 - [JSON转Java实体类](https://www.sojson.com/json2entity.html)
 
 ## 免费在线OCR
@@ -82,6 +84,7 @@
 - [Bing翻译](https://cn.bing.com/translator)
 
 ## Unicode编码转换
+
 - [unicode.un80.cn](https://unicode.un80.cn/)
 
 ## RSS
@@ -101,6 +104,7 @@
 
 - 富途牛牛
 - 英为财情
+- [百度股市通](https://gushitong.baidu.com/)
 
 ### 黄金期货
 
