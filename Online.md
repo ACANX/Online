@@ -48,16 +48,18 @@
 
 
 ## JSON格式化
+- [json.cn](https://www.json.cn/jsononline/)
 - [JSON格式化校验](https://www.bejson.com/explore/index_new/)
 - [SO JSON在线JSON解析](https://www.sojson.com/)
 - [JSON格式化/压缩/转义](https://www.uutils.com/format/json.htm)
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算-BeJSON.com](https://www.bejson.com/convert/filesize/)
 
+
 ## 在线文档编辑
 
 - [docs.qq.com](https://docs.qq.com)
-
-
+- [Google Doc](#)
+- [飞书](www.feishu.cn)
 
 
 ## 在线视频解析与下载
@@ -75,6 +77,10 @@
 - 腾讯云OCR
 - 微云
 - 小米Hyper OS系统自带的图片中文本识别
+
+### 本地部署
+- []
+- [TesseractOCR](https://tesseract.patagames.com/)
 
 
 ## 在线二维码生成
@@ -120,6 +126,14 @@
 - 金投网
 - 建行黄金
 - 工行黄金
+
+### 静态网站生成器
+
+- [Python-MkDocs-material](https://www.mkdocs.org/)      [Demo1](https://acanx.github.io/Node/)
+
+- [Node.js-Hexo-aria/](https://github.com/AlynxZhou/hexo-theme-aria/)  [Demo1](https://acanx.github.io/Blog/index.html)
+
+- [Ruby-Jekyll-Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)  [Demo1](https://jekyllthemes.io/theme/minimal-mistakes) [Demo2](https://www.aivi.fyi/about/)    [Demo3](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)
 
 
 ## 区块链与Web3
