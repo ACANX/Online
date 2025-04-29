@@ -11,6 +11,9 @@
 - [菜鸟工具](https://www.jyshare.com/)
 - [开发者工具箱](https://coding.tools/cn)
 
+---
+
+
 ## AI大模型
 
 - [DeepSeek](https://chat.deepseek.com/)
@@ -32,6 +35,8 @@
 - [developer.aliyun.com/mirror/](https://developer.aliyun.com/mirror/)
 
 
+---
+
 # 开源项目/文档
 - [开源项目/文档](./OS/README.md)
 
@@ -41,6 +46,7 @@
 - [Quick Reference](https://quickref.cn/index.html)
 - [菜鸟教程](https://www.runoob.com/)
 
+---
 
 # 代码格式化
 
@@ -62,6 +68,8 @@
 - [飞书](www.feishu.cn)
 
 
+---
+
 ## 在线视频解析与下载
 
 - [抖音/TikTok视频图片下载](https://snapany.com/zh/tiktok)
@@ -71,6 +79,8 @@
 
 - [JSON转Java实体类](https://www.sojson.com/json2entity.html)
 
+---
+
 ## 免费在线OCR
 
 - 微信PC版本
@@ -78,10 +88,12 @@
 - 微云
 - 小米Hyper OS系统自带的图片中文本识别
 
-### 本地部署
-- []
+### 可本地部署的OCR
+
+- [InternVL3](https://modelscope.cn/collections/InternVL3-5d0bdc54b7d84e)
 - [TesseractOCR](https://tesseract.patagames.com/)
 
+--- 
 
 ## 在线二维码生成
 - [草料二维码生成器](https://cli.im/)
@@ -136,9 +148,18 @@
 - [Ruby-Jekyll-Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)  [Demo1](https://jekyllthemes.io/theme/minimal-mistakes) [Demo2](https://www.aivi.fyi/about/)    [Demo3](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/)
 
 
+---
+
 ## 区块链与Web3
 
 ### 博客
 
 - [acanx-6051.xlog.app/](https://acanx-6051.xlog.app/)
+
+---
+
+### 网址导航
+
+---
+
 
