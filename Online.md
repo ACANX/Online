@@ -85,6 +85,7 @@
 
 - 微信PC版本
 - 腾讯云OCR
+- 阿里云OCR
 - 微云
 - 小米Hyper OS系统自带的图片中文本识别
 
@@ -130,14 +131,24 @@
 ## 证券行情
 
 - [富途牛牛](https://www.futunn.com/quote/hk/heatmap)
-- 英为财情
 - [百度股市通](https://gushitong.baidu.com/)
+- [东方财富]
+- 英为财情
+- TreadingView
+- 99期货网
+- [金投网](https://quote.cngold.org/)
+
 
 ### 黄金期货
 
-- 金投网
-- 建行黄金
-- 工行黄金
+- [沪金主连(AU0)-新浪财经](https://finance.sina.com.cn/futures/quotes/AU0.shtml)
+- [上海黄金交易所(AU9999)-东方财富](https://quote.eastmoney.com/globalfuture/AU9999.html)
+- [黄金9999-汇通财经](https://quote.fx678.com/symbol/AU9999)
+- [纸黄金-建行](https://quote.cngold.org/gjs/yhzhj_jh9999.html)
+- [纸黄金-工行](https://quote.cngold.org/gjs/yhzhj_ghzhj1.html)
+- [积存金-建行](https://gold3.ccb.com/chn/home/gold_new/cpjs/index.shtml)
+
+
 
 ### 静态网站生成器
 
