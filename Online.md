@@ -130,9 +130,10 @@
 
 ## 证券行情
 
+
 - [富途牛牛](https://www.futunn.com/quote/hk/heatmap)
 - [百度股市通](https://gushitong.baidu.com/)
-- [东方财富]
+- [东方财富](https://quote.eastmoney.com/center/)
 - 英为财情
 - TreadingView
 - 99期货网
@@ -141,6 +142,8 @@
 
 ### 黄金期货
 
+- [GCMain-黄金主连(纽约金)](https://www.futunn.com/stock/GCMAIN-US)
+- [XAUUSD-现货黄金CFD-差价合约(伦敦金)](https://www.futunn.com/stock/XAUUSD-FX)
 - [沪金主连(AU0)-新浪财经](https://finance.sina.com.cn/futures/quotes/AU0.shtml)
 - [上海黄金交易所(AU9999)-东方财富](https://quote.eastmoney.com/globalfuture/AU9999.html)
 - [黄金9999-汇通财经](https://quote.fx678.com/symbol/AU9999)
