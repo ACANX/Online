@@ -7,9 +7,8 @@
 
 - ![Maven Central](https://maven-badges.sml.io/maven-central/com.acanx.util/autil-core/badge.png?style=plastic)
 
-
-
 - [![Maven Central](https://maven-badges.sml.io/maven-central/com.acanx.util/autil-core/badge.svg)](https://maven-badges.sml.io/maven-central/com.acanx.util/autil-core)
+
 
 - ![com.acanx.util:autil-core](https://img.shields.io/maven-central/v/com.acanx.util/autil-core)
 
@@ -17,6 +16,9 @@
 
 
 - ![com.acanx.meta:os-dependencies](https://img.shields.io/maven-central/v/com.acanx.meta/os-dependencies)
+
+
+
 
 
 ## 链接
