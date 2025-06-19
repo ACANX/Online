@@ -60,6 +60,10 @@
 - [JSON格式化/压缩/转义](https://www.uutils.com/format/json.htm)
 - [在线文件大小(bit,bytes,KB,MB,GB,TB)转换换算-BeJSON.com](https://www.bejson.com/convert/filesize/)
 
+## 数据转换
+
+- [.properties <==> .yml/.yaml 配置文件互转](https://www.toyaml.com/index.html)
+
 
 ## 在线文档编辑
 
