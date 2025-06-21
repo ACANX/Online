@@ -5,6 +5,7 @@
 
 
 - [Hao123](https://www.hao123.com/)
+- [265导航](https://www.265.com/)
 - [果汁导航](http://guozhivip.com/)
 - [大数据导航](https://hao.199it.com/)
 
