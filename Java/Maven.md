@@ -1,7 +1,14 @@
 
 
+
+# Maven构件
+
+- [mvnrepository.com](https://mvnrepository.com/)
+- [central.sonatype.com](https://central.sonatype.com/search?q=acanx&sort=published)
+
 ## 徽章
 
+- [shields.io/badges/maven-central-version](https://shields.io/badges/maven-central-version)
 
 - ![Maven Central](https://maven-badges.sml.io/maven-central/com.acanx.util/autil-core/badge.svg)
 
